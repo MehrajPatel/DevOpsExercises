@@ -128,10 +128,8 @@ In simpler words, think about it as an isolated environment for users to manage 
 
 <details>
 <summary>What is an image stream?</summary><br><b>
-</b>
+</b></details>
 An image stream is a concept in OpenShift, a container application platform that automates the build, deployment, and scaling of applications. It is a single pointer to a set of related images. An image stream comprises one or more Docker images identified by tags. It presents a single virtual view of related images, similar to a Docker image repository, and may contain images from its own image repository in OpenShift’s integrated Docker Registry or other image streams. By watching an image stream, builds and deployments can receive notifications when new images are added or modified and react by performing a build or deployment, respectively.
-</details>
-
 <details>
 <summary>What would be the best way to run and manage multiple OpenShift environments?</summary><br><b>
 
