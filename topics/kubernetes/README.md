@@ -2273,6 +2273,7 @@ The main difference relies on the moment when you want to configure storage. For
 
 <details>
 <summary>What is CSI Volume Cloning?</summary><br><b>
+ A Container Storage Interface (CSI) volume clone is a duplicate of an existing persistent volume at a particular point in time.
 </b></details>
 
 <details>
