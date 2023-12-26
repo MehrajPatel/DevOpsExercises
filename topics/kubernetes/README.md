@@ -3015,6 +3015,7 @@ TODO: add more monitoring solutions
 
 <details>
 <summary>What is Kustomize?</summary><br><b>
+ Kustomize is a Kubernetes configuration transformation tool that enables you to customize untemplated YAML files, leaving the original files untouched. Kustomize can also generate resources such as ConfigMaps and Secrets from other representations.
 </b></details>
 
 <details>
