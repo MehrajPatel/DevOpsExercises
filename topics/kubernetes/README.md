@@ -412,6 +412,7 @@ False. A single Pod can run on a single node.
 
 <details>
 <summary>You run a pod and you see the status <code>ContainerCreating</code></summary><br><b>
+When you see the status "ContainerCreating" for a pod in Kubernetes, it means that the Kubernetes scheduler has successfully assigned the pod to a node, but the container runtime (e.g., Docker) is still in the process of creating the containers specified in the pod.
 </b></details>
 
 <details>
